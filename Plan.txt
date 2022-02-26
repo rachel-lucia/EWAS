@@ -1,0 +1,14 @@
+Plan for demonstrating subsampling technique:
+
+1) Replicate Shenker paper findings w/ traditional appraoch
+2) Demonstrate resampling in their dataset
+3) Refactor code to parallelize properly
+4) Turn it into an R package
+5) Write methods paper
+6) Profit
+
+
+or from 2015 systematic review
+https://pubmed.ncbi.nlm.nih.gov/26478754/
+
+HOW is there not an update?
